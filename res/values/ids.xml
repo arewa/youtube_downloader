@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<item type="id" name="formatSpinner"/>
+   	<item type="id" name="downloadPathTextView"/>
+   	<item type="id" name="downloadButtonView"/>
+   	<item type="id" name="selectFolderButtonView"/>
+   	<item type="id" name="mainScreenTopBanner"/>
+   	<item type="id" name="explanationText"></item>
+   	<item type="id" name="videoText"></item>
+   	<item type="id" name="search"></item>
+   	<item type="id" name="videoInfoScreenTopBanner"/>
+   	<item type="id" name="videoInfoScreenThumbImage"/>
+   	<item type="id" name="videoInfoScreenTitle"/>
+   	<item type="id" name="videoInfoScreenDuration"/>
+</resources>

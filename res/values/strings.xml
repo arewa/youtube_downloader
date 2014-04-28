@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YouTube Downloader</string>
+    <string name="mainscreen_video_url_box_label">YouTube video link:</string>
+    <string name="mainscreen_search_button_label">Search</string>
+    <string name="mainscreen_contextmenu_paste">Paste</string>
+    <string name="mainscreen_error_video_input_validation">Type valid YouTube link</string>
+    
+    <string name="app_name_video_info">YouTube Downloader: Video Info</string>
+    <string name="videoinfoscreen_loading">Loading…</string>
+    <string name="videoinfoscreen_empty_videoid">Error: YouTube video ID is empty</string>
+    <string name="videoinfoscreen_not_obtain_video_info">Error: Can not obtain YouTube video info</string>
+    <string name="videoinfoscreen_duration">Duration:</string>
+    <string name="videoinfoscreen_sec">sec</string>
+    <string name="videoinfoscreen_select_output_folder">Select download folder</string>
+    <string name="videoinfoscreen_output_folder_not_selected">Download folder not selected</string>
+    <string name="videoinfoscreen_download_to">Download to:</string>
+    <string name="videoinfoscreen_download">Download</string>
+    <string name="videoinfoscreen_downloading">Downloading…</string>
+    <string name="videoinfoscreen_download_complete">Download complete!</string>
+    <string name="videoinfoscreen_back">Back</string>
+    <string name="videoinfoscreen_free_mode_message">In free mode you can download videos long no more than %1s sec</string>
+    <string name="videoinfoscreen_error_while_downloading">Some error happen when downloading video. Please try again later</string>
+    
+    <string name="app_name_select_folder">YouTube Downloader: Select Folder</string>
+    <string name="file_dialog_location">Location</string>
+    <string name="file_dialog_cant_read_folder">Folder can\'t be read!</string>
+    <string name="file_dialog_nnew">New</string>
+    <string name="file_dialog_select">Select</string>
+    <string name="file_dialog_file_name">File name:</string>
+    <string name="file_dialog_cancel">Cancel</string>
+    <string name="file_dialog_create">Save</string>
+    <string name="file_dialog_no_data">No Data</string>
+	<color name="file_dialog_gray">#ffff0000</color>
+	
+	<string name="eula_title">License</string>
+	<string name="eula_accept">Accept</string>
+	<string name="eula_refuse">Refuse</string>
+
+</resources>
